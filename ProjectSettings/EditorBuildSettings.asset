@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0PantallaInicio.unity
+    guid: 110a4531cebc1fb43b9f0b07ce744666
+  - enabled: 1
+    path: Assets/Scenes/1Prologo.unity
+    guid: faa15ba22a6860949baf0d684e18e1d6
+  - enabled: 1
+    path: Assets/Scenes/2Caminos.unity
+    guid: cf1dc2489f2e61c43b2a8a4b7c93bca8
+  - enabled: 1
+    path: Assets/Scenes/3Acertijo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/4Laberinto.unity
+    guid: 368d773453e6d8e43bb5d8d5d6fcf5fa
+  m_configObjects: {}
